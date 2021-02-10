@@ -4,7 +4,7 @@ import ProfileInfo from './ProfileInfo';
 import ProfilePosts from './ProfilePosts';
 
 const ProfileContent = () => (
-  <div className="profile-content">
+  <div className="profile_content">
     <ProfileInfo />
     <ProfilePosts />
   </div>

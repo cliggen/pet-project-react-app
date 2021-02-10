@@ -2,7 +2,7 @@ import React from 'react';
 import './index.css';
 
 const ProfileInfo = () => (
-  <div className="profile-info">
+  <div className="profile_info">
     Here will be profile info
   </div>
 );

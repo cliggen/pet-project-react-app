@@ -2,7 +2,7 @@ import React from 'react';
 import './index.css';
 
 const ProfilePosts = () => (
-  <div className="profile-posts">
+  <div className="profile_posts">
     Here will be posts
   </div>
 );
