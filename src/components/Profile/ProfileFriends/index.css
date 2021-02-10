@@ -1,0 +1,6 @@
+.profile-friends {
+  grid-area: profile-friends;
+  background-color: #fff;
+  border-radius: 0.3rem;
+  margin-top: 1rem;
+}

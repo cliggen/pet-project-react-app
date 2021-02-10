@@ -1,0 +1,4 @@
+.footer {
+  grid-area: f;
+  border: 1px solid #ccc;
+}

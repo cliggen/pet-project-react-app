@@ -1,0 +1,14 @@
+.header {
+  grid-area: h;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+}
+
+.header img {
+  height: 5rem;
+}
+
+.header__slogan {
+  margin-left: 10%;
+}

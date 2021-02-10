@@ -1,0 +1,11 @@
+.avatar-panel {
+  grid-area: profile-avatar;
+  padding: 1rem;
+  background-color: #fff;
+  width: 15.5rem;
+  height: 27rem;
+  border-radius: 0.3rem;
+}
+.avatar-panel img {
+  height: 25rem;
+}

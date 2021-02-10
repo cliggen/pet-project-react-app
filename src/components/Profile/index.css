@@ -1,0 +1,11 @@
+.profile {
+  margin-top: 1rem;
+  grid-area: c;
+  display: grid;
+  grid-template-rows: 1fr 0.5fr 1fr;
+  grid-template-columns: 1fr 2.5fr;
+  grid-template-areas: 
+    "profile-avatar profile-content"
+    "profile-friends profile-content"
+    ". profile-content";
+}
