@@ -1,0 +1,6 @@
+.messages {
+    grid-area: c;
+    margin-top: 1rem;
+    min-height: 36rem;
+    display: flex;
+}
