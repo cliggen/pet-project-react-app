@@ -3,4 +3,14 @@
     border-radius: 0.3rem;
     margin-bottom: 1rem;
     padding: .5rem;
+    display: flex;
+    justify-content: space-between;
+}
+.post_input input {
+    padding: .5rem;
+    width: 22.5rem;
+    border: none;
+}
+.post_input button {
+    padding: .5rem;
 }
